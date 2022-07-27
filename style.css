@@ -1,0 +1,19 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.bebas{
+    font-family: 'Bebas Neue', cursive;
+}
+.OrangeColor{
+    color: #FA804C;
+}
+.darkBlue{
+    background-color: #3D4FF3;
+}
+.lightorage
+{
+    background-color: #FFF9F4;
+}
+.lightgray{
+    background-color: #F1F1F1;
+}
